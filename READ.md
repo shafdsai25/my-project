@@ -80,16 +80,14 @@ To use the semantic search service, send a GET request to the search endpoint wi
     ```
 
 This will return a list of patent documents related to "processor".
+![image](https://github.com/shafdsai25/my-project/assets/114987491/add1087b-39f6-4218-8db4-25fc38aabc2e)
+
 
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 Please refer to the CONTRIBUTING.md for guidelines on how to contribute to the project.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
