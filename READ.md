@@ -8,6 +8,7 @@ This project is a Flask web application that implements a semantic search servic
 
 ## Features
 ![Flask_Semantic_Search_Flowchart_Detailed](https://github.com/shafdsai25/my-project/assets/114987491/77a5dae2-98ec-4f52-83b6-2536f3f0560c)
+![image](https://github.com/shafdsai25/my-project/assets/114987491/6458beac-aed3-4de6-afdf-039de5b53d37)
 
 
 - Semantic search on a dataset of patent documents.
