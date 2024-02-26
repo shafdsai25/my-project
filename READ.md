@@ -7,6 +7,8 @@
 This project is a Flask web application that implements a semantic search service for patent documents. It allows users to query a collection of patent documents for relevant results based on semantic similarity. The application utilizes Docker for easy setup and deployment, and it's designed to be scalable both vertically and horizontally to meet varying load demands.
 
 ## Features
+![Flask_Semantic_Search_Flowchart_Detailed](https://github.com/shafdsai25/my-project/assets/114987491/77a5dae2-98ec-4f52-83b6-2536f3f0560c)
+
 
 - Semantic search on a dataset of patent documents.
 - Flask RESTful API to handle search queries.
