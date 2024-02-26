@@ -68,7 +68,7 @@ The entire system is containerized using Docker, facilitating easy setup and dep
 
 - **Stateless Design**: The Flask application is designed to be stateless, ensuring that it can scale horizontally without session management complexities. This design choice supports deploying multiple instances of the application to handle increased traffic.
 
-- **Database & Search Index**: The scalability of the database and search index is also considered. Technologies like Elasticsearch can be utilized for the search index, which supports distributed environments and can scale with the application.
+- **Database & Search Index**: The scalability of the database and search index is also considered. Technologies like ChromaDB can be utilized for the search index, which supports distributed environments and can scale with the application.
 
 ## Usage
 
