@@ -81,6 +81,8 @@ To use the semantic search service, send a GET request to the search endpoint wi
 This will return a list of patent documents related to "processor".
 ![image](https://github.com/shafdsai25/my-project/assets/114987491/add1087b-39f6-4218-8db4-25fc38aabc2e)
 ![image](https://github.com/shafdsai25/my-project/assets/114987491/83d82dc5-aa29-4f67-b289-ab841345b860)
+![image](https://github.com/shafdsai25/my-project/assets/114987491/d06a8724-ddf8-4c41-b6cf-a006644e237f)
+
 ![image](https://github.com/shafdsai25/my-project/assets/114987491/d77c92ea-40e5-43af-ada9-4e11a0053327)
 
 
