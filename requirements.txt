@@ -1,0 +1,4 @@
+flask
+chromadb
+sentence-transformers
+gunicorn==20.1.0
