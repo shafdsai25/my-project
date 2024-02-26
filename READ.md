@@ -8,8 +8,6 @@ This project is a Flask web application that implements a semantic search servic
 
 ## Features
 ![Flask_Semantic_Search_Flowchart_Detailed](https://github.com/shafdsai25/my-project/assets/114987491/77a5dae2-98ec-4f52-83b6-2536f3f0560c)
-![image](https://github.com/shafdsai25/my-project/assets/114987491/6458beac-aed3-4de6-afdf-039de5b53d37)
-
 
 - Semantic search on a dataset of patent documents.
 - Flask RESTful API to handle search queries.
@@ -82,6 +80,7 @@ To use the semantic search service, send a GET request to the search endpoint wi
 
 This will return a list of patent documents related to "processor".
 ![image](https://github.com/shafdsai25/my-project/assets/114987491/add1087b-39f6-4218-8db4-25fc38aabc2e)
+![image](https://github.com/shafdsai25/my-project/assets/114987491/83d82dc5-aa29-4f67-b289-ab841345b860)
 
 
 ## Contributing
