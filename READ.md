@@ -1,4 +1,6 @@
 # PA-ML-Assignment
+![Flask_Semantic_Search_Flowchart](https://github.com/shafdsai25/my-project/assets/114987491/d3085b84-8ec3-4131-b89d-6d9d92ee29a3)
+
 
 ## Flask Semantic Search Application
 
